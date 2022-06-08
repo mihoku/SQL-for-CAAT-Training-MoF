@@ -1,4 +1,9 @@
 --NOMOR 1
+/*Tahun 2023, anggaran gaji perusahaan tahun tersebut adalah 3.450.000. Karena tuntutan
+serikat pekerja, perusahaan ingin menaikkan gaji masing-masing pegawai dengan presentase
+sebanyak masa kerja pegawai dalam tahun (misal masa kerja 5 tahun kenaikan gajinya 5%).
+Apakah perusahaan punya cukup anggaran untuk menaikkan gaji pegawai sesuai
+perhitungan tersebut?*/
 
 select 
 sum(
